@@ -1,0 +1,2 @@
+# System-for-the-support-in-the-management-of-a-University
+Planeamento, especificação, modelização, implementação, teste e documentação  de um projeto de software que seja capaz de armazenar e gerir informação de uma Universidade || Planning, specification, modeling, implementation, testing and documentation of a software project that is capable of storing and managing information from a University
